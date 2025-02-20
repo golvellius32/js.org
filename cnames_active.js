@@ -1300,6 +1300,7 @@ var cnames_active = {
   "godown": "cname.vercel-dns.com", // noCF
   "goji": "airbnb.github.io/goji-js",
   "gol": "goljs.github.io/GoL",
+  "golvellius32": "golvellius32.github.io",
   "gondel": "namics.github.io/gondel",
   "goober": "cristianbote.github.io/goober",
   "good": "amirhossein693.github.io/good",
